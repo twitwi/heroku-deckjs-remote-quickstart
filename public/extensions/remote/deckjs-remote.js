@@ -10,7 +10,7 @@
 		},
 		joined = false,
 		current_slide = 0,
-		key = 'eb0a191797624dd3a48fa681d3061212',
+		key = 'f03bde11d261f185cbacfa32c1c6538c',
 		socket,
 		UI;
 
